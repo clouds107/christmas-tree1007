@@ -1,4 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
+// @ts-ignore
 import { FilesetResolver, HandLandmarker } from '@mediapipe/tasks-vision';
 import { TreeMode } from '../types';
 
